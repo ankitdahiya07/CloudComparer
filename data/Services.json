@@ -3005,7 +3005,12 @@
                 "name": "API Catalog",
                 "ref": "https://apicatalog.oraclecloud.com/ui/",
                 "icon": "oracle.png"
-            }
+            },
+            {
+                "name": "Oracle Cloud shell",
+                "ref": "https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cloudshellintro.htm",
+                "icon": "oracle.png"
+            
         ],
         "alibaba": [
             {
